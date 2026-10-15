@@ -317,9 +317,14 @@ img, svg{
 /* TO DO: add the styles below one at a time, then save the file and refresh the page in the browser to see the changes */
 #border section p:last-of-type{
     /* set background color to the dark gray variable */
+    background-color: var(--dk-gray);
     /* set text color to the white variable */
+    color: var(--wht);
     /* add 1rem of padding to all sides */
+    padding: 1rem;
     /* add a 4px solid yellow border (use the variable for the color) */
+    border: 4px solid var(--yellow);
+
     
     width: calc(100% - 40px);
     max-width: calc(65ch - 40px);
