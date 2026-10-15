@@ -364,6 +364,7 @@ img, svg{
     height: auto;
     max-width: calc(334px - 40px);
     border: 4px solid var(--green);
+    margin: 16px auto;
 }
 
 /* RESOURCE SECTION STYLES */
