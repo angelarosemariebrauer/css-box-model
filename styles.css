@@ -283,6 +283,7 @@ img, svg{
 #padding a  {
     background-color: var(--green); 
     padding: 16px;
+    display :block;
 }
 #padding a:hover{
     background-color: var(--blue);
